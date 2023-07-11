@@ -29,48 +29,31 @@ This is a web based application developed for Ibm intenship
 
 
 
-blob:https://web.whatsapp.com/568c9d64-a507-4386-914b-d625ab455599
+![one](https://github.com/sunilgopi/ibm.project/assets/118232324/3ee2f90d-74dc-45c9-baba-426a44cd3263)
 
    
 
-###About us-blob:https://web.whatsapp.com/5bbe90da-43e5-44e2-888d-84d104575ce6
+###About-![three](https://github.com/sunilgopi/ibm.project/assets/118232324/b29dcbcb-f79a-414d-b636-25eb77de1b3e)
 
-![WhatsApp Image ![WhatsApp Image 2023-01-19 at 6 38 31 AM (2)](https://user-images.githubusercontent.com/118232324/213337553-cde48892-fa36-477e-b9c9-5a331e954c74.jpeg)
-2023-01-19 at 6 38 31 AM](https://user-images.githubusercontent.com/118232324/213337240-78d4ee1f-8b62-4fed-b227-13d6cdc89c5e.jpeg)
+![two](https://github.com/sunilgopi/ibm.project/assets/118232324/800cf136-23ed-45eb-8a59-020b610b49a1)
 
-![WhatsApp Image 2023-01-19 at 6 37 54 AM](https://user-images.githubusercontent.com/118232324/213336750-0b0cb5b8-2bd5-4e6e-aea2-7e9d4491172f.jpeg)
+![four](https://github.com/sunilgopi/ibm.project/assets/118232324/2eb17cc4-6bf0-4730-93b4-d3e0827d76fc)
 
-### Services  ![WhatsApp Image 2023-01-19 at 6 37 55 AM (2)](https://user-images.githubusercontent.com/118232324/213337162-3305fc10-a37b-4322-bf2d-c1c9a47c2ee5.jpeg)
--
+![five](https://github.com/sunilgopi/ibm.project/assets/118232324/bcacfcbc-c767-4a82-bf16-4af4bcd0dbf3)
+
+###Services-![seven](https://github.com/sunilgopi/ibm.project/assets/118232324/d7d11261-a5c4-456b-92aa-e76eb59e7463)
+
 
 ### Contact us -
-![WhatsApp Image 2023-01-19 at 6 38 32 AM](https://user-images.githubusercontent.com/118232324/213337406-9af7300a-f1d1-487e-86ef-b770eea5fc48.jpeg)
-![WhatsApp Image 2023-01-19 at 6 38 32 AM (2)](https://user-images.githubuse![WhatsApp Image 2023-01-19 at 7 39 48 AM (3)](https://user-images.githubusercontent.com/118232324/213339382-5e020692-d6a9-4db2-b4dc-789ab4429351.jpeg)
-rcontent.com/118232324/213337506-bd87b44f-4f1a-42e2-bae9-f2dd29aa3239.jpeg)
-![WhatsApp Image 2023-01-19 at 7 39 49 AM](https://user-images.githubusercontent.com/118232324/213339426-cda1010e-ddc8-4004-826f-e11ade93b068.jpeg)
+
+![Eight](https://github.com/sunilgopi/ibm.project/assets/118232324/7de5e1b6-1b49-4542-84fd-dc0a3ec267d8)
 
 
 
 
-### AZURE TECHNOLOGY SCREENSHOTS USED
-1.STATIC WEB APPS
-2.HEALTH BOT
-
-1.STATIC WEB APPS
-![Screenshot (4)](https://user-images.githubusercontent.com/118232324/213339926-298d4536-d6bb-4d28-a3a5-28171a961cc4.png)
-
-
-2.HEALTH BOT
-![Screenshot (1)](https://user-images.githubusercontent.com/118232324/213418547-76b6be00-0af4-4c7d-9f76-78123a702dca.png)
-
-
-![Screensho![Screenshot (5)](https://user-images.githubusercontent.com/118232324/213338004-ccdd8069-dfa4-491c-8c9f-7ba8e6dfdb9f.png)
-t (6)](https://user-images.githubusercontent.com/118232324/213337915-3da4cffb-4abd-4b75-9928-7d7c02535ce6.png)
 
 
 ## Tech Stack 💻
-
-- [Azure(Hosting)]   this will best hosting platform (https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
 - CSS
 - JavaScript
